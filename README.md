@@ -1,6 +1,12 @@
 sbt-coffeescript
 ================
 
+## Status
+
+Archived. [sbt/sbt-coffeescript](https://github.com/sbt/sbt-coffeescript) is the new home for this plugin.
+
+------
+
 [![Build Status](https://api.travis-ci.org/sbt/sbt-coffeescript.png?branch=master)](https://travis-ci.org/sbt/sbt-coffeescript)
 
 An SBT plugin to compile [CoffeeScript](http://coffeescript.org/) sources to JavaScript.
